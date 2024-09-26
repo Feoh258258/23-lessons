@@ -4,7 +4,7 @@ const euroRate = 1.09;
 // 1 Task
 let name = prompt('Task2');
 alert(`Hello, ${name}!`);
-// end of 1 Task
+
 
 // 2 Task
 let age = prompt('When were you born? (Please, indicate the year of birth)');
